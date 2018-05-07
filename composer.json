@@ -1,0 +1,10 @@
+{
+    "name": "administrator/crud",
+    "authors": [
+        {
+            "name": "lazycao",
+            "email": "lazycao@qq.com"
+        }
+    ],
+    "require": {}
+}
