@@ -1,5 +1,6 @@
 {
-    "name": "administrator/crud",
+    "name": "lazycao520/crud",
+    "license": "MIT",
     "authors": [
         {
             "name": "lazycao",
